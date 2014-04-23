@@ -13,7 +13,8 @@ $(document).ready(function() {
 
 <!--Vegas background start -->
 	$.vegas({
-	  src:'image/background.jpg'
+	    src:'image/background.jpg',
+        valign:'top',
 	});
 	
 	$.vegas('overlay', {
