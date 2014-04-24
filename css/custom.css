@@ -607,3 +607,8 @@ button.close
 {
 	color:white;
 }
+
+button.close:hover
+{
+	color:#aaa;
+}
