@@ -30,12 +30,12 @@ $(document).ready(function() {
     "circle_bg_color": "#F5F5F5",
     "time": {
         "Days": {
-            "text": "Days",
+            "text": "Jours",
             "color": "#FFF",
             "show": true
         },
         "Hours": {
-            "text": "Hours",
+            "text": "Heures",
             "color": "#FFF",
             "show": true
         },
@@ -45,7 +45,7 @@ $(document).ready(function() {
             "show": true
         },
         "Seconds": {
-            "text": "Seconds",
+            "text": "Secondes",
             "color": "#FFF",
             "show": true
         }
