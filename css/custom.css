@@ -31,6 +31,10 @@ a:hover {
 	transition-duration:1s;
 }
 
+a.btn-submit:hover {
+	color:black;
+}
+
 p {	
 	font-family:'Source Sans Pro';
 	color:#FFF;
