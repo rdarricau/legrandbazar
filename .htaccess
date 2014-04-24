@@ -1,0 +1,2 @@
+RewriteCond %{HTTP_HOST} ^legrandbazar.org$ [NC]
+RewriteRule ^(.*)$ http://www.legrandbazar.org/$1 [R,L]
